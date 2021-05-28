@@ -1,0 +1,3 @@
+include ':get_battery_devices'
+include ':app'
+rootProject.name = "native_lib_test"
